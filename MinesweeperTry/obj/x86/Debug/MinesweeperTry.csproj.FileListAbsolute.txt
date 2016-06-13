@@ -1,0 +1,7 @@
+c:\users\muhammad bilal\documents\visual studio 2010\Projects\MinesweeperTry\MinesweeperTry\bin\Debug\MinesweeperTry.exe
+c:\users\muhammad bilal\documents\visual studio 2010\Projects\MinesweeperTry\MinesweeperTry\bin\Debug\MinesweeperTry.pdb
+c:\users\muhammad bilal\documents\visual studio 2010\Projects\MinesweeperTry\MinesweeperTry\obj\x86\Debug\MinesweeperTry.Form1.resources
+c:\users\muhammad bilal\documents\visual studio 2010\Projects\MinesweeperTry\MinesweeperTry\obj\x86\Debug\MinesweeperTry.Properties.Resources.resources
+c:\users\muhammad bilal\documents\visual studio 2010\Projects\MinesweeperTry\MinesweeperTry\obj\x86\Debug\MinesweeperTry.csproj.GenerateResource.Cache
+c:\users\muhammad bilal\documents\visual studio 2010\Projects\MinesweeperTry\MinesweeperTry\obj\x86\Debug\MinesweeperTry.exe
+c:\users\muhammad bilal\documents\visual studio 2010\Projects\MinesweeperTry\MinesweeperTry\obj\x86\Debug\MinesweeperTry.pdb
